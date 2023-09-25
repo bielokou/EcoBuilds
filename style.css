@@ -2,3 +2,6 @@ body {
 background-color: #000000;
 color: white
 }
+.tt {
+display: inline-block;
+}
